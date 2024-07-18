@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BD
+comment1.params=cn
+comment1.target=void\ registrarCuarto(Cuarto)
+comment2.params=
+comment2.target=Cuarto\ mostrarUltCuarto()
+comment3.params=pos
+comment3.target=Cuarto\ cuartoPos(int)
+comment4.params=mn
+comment4.target=void\ registrarEconomico(Economico)
+comment5.params=
+comment5.target=Economico\ mostrarUltEconomico()
+comment6.params=pos
+comment6.target=Economico\ economicoPos(int)
+comment7.params=pn
+comment7.target=void\ registrarPersonal(Personal)
+comment8.params=
+comment8.target=Personal\ mostrarUltPersonal()
+comment9.params=pos
+comment9.target=Personal\ personalPos(int)
+numComments=10
